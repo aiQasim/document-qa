@@ -2,3 +2,4 @@ gradio
 transformers
 xmltodict
 PyPDF2
+torch
